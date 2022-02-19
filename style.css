@@ -84,7 +84,7 @@ li{
 }
 
 button {
-    background: #3882f6;
+    background: #0089e4;
     border-radius: 4px;
     border: none;
     flex-grow:0;
@@ -105,8 +105,8 @@ button {
 
 .container-two {
     background: #1f2937;
-    max-height: 450px;
-    min-height: 450px;
+    max-height: 500px;
+    min-height: 500px;
 }
 
 .info-title {
@@ -129,7 +129,7 @@ button {
 .image-border {
     width: 200px;
     height: 200px;
-    border: 4px solid #3882f6;
+    border: 4px solid #0089e4;
     border-radius: 25px;
     margin-bottom: 16px;
 }
@@ -143,9 +143,9 @@ button {
 /*container three*/
 
 .container-three {
-    background-image: url("images-and-links/server2.jpg");
+    background-image: url("images-and-links/server2-2.png");
     background-position:center;
-    background-position-y: -40em;
+   
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:300em;
@@ -190,7 +190,7 @@ button {
 .cta-container {
     display:flex;
     align-items: center;
-    background:#3882f6;
+    background:#0089e4;
     padding: 40px 60px;
     width:auto;
     border-radius: 5px;
